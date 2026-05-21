@@ -108,3 +108,34 @@ This "Track & Trace" application consists of a smart contract and a user interfa
   - **`Transition Rules`**: An admin-only tool to configure the state machine, defining who can perform which status transitions.
 
 This design separates administrative control from workflow execution, ensuring flexibility and security in tracking items through the supply chain.
+---
+
+## Portfolio Context
+
+**Completed bounty project** demonstrating full-stack blockchain development on the Concordium platform.
+
+### What Was Built
+
+A complete supply chain track-and-trace system with:
+
+- **Smart Contract:** CIS-3 compliant NFT contract for product tracking with sponsored transaction support
+- **Indexer Service:** Real-time blockchain event indexing and data aggregation
+- **Sponsored Transaction Service:** Generic CIS-3 compatible service for gasless transactions
+- **Frontend:** Full-stack web application with product tracking interface
+- **Infrastructure:** Docker Compose setup for local development and deployment
+
+### Technical Achievements
+
+- Implemented CIS-3 (Concordium Improvement Standard) NFT standard
+- Built sponsored transaction flow for seamless user experience
+- Created indexer service for real-time blockchain data processing
+- Designed microservice architecture with Docker orchestration
+- Deployed and tested on Concordium testnet/mainnet
+
+### Skills Demonstrated
+
+TypeScript, Rust (smart contracts), Concordium SDK, Docker, Microservices, Smart Contracts, Full-stack dApp Development, Blockchain Infrastructure
+
+---
+
+*Completed 2024-2025. Deployed on Concordium blockchain.*
